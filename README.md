@@ -9,6 +9,10 @@ The final maps can be accessed at:
 
 ## Supporting files
 
+_R scripts (Shiny apps) used to import & clean data, produce maps, & create Shiny interface:_  
+app_ES.R  
+app_HS.R
+
 _Chicago Public Schools Public Report Cards:_  
 2019-Report-Card-Public-Data-Set.xlsx
 
@@ -23,10 +27,6 @@ SY14_SQRP_Report_CPSEDU_FINAL_20151026.xlsx
 
 _Chicago Public Schools Geographic Locations:_  
 Chicago_Public_Schools_-_School_Locations_SY1920.csv
-
-_R Apps used to import & clean data, produce maps, & create Shiny interface:_  
-app_ES.R  
-app_HS.R
 
 _CPS Elementary Schools Geographic Networks Shapefile:_  
 geo_export_1b8baa06-7cd3-4db5-9678-6f7da9dc4d5b.dbf  
