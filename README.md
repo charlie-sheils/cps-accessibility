@@ -29,17 +29,16 @@ app_ES.R
 app_HS.R
 
 _CPS Elementary Schools Geographic Networks Shapefile:_  
-geo_export_1b8baa06-7cd3-4db5-9678-6f7da9dc4d5b.dbf
-geo_export_1b8baa06-7cd3-4db5-9678-6f7da9dc4d5b.prj
-geo_export_1b8baa06-7cd3-4db5-9678-6f7da9dc4d5b.shp
+geo_export_1b8baa06-7cd3-4db5-9678-6f7da9dc4d5b.dbf  
+geo_export_1b8baa06-7cd3-4db5-9678-6f7da9dc4d5b.prj  
+geo_export_1b8baa06-7cd3-4db5-9678-6f7da9dc4d5b.shp  
 geo_export_1b8baa06-7cd3-4db5-9678-6f7da9dc4d5b.shx
 
 _CPS High Schools Geographic Networks Shapefile:_  
-geo_export_699d5441-6a61-43a9-8ccb-abada8b78f27.dbf
-geo_export_699d5441-6a61-43a9-8ccb-abada8b78f27.prj
-geo_export_699d5441-6a61-43a9-8ccb-abada8b78f27.shp
+geo_export_699d5441-6a61-43a9-8ccb-abada8b78f27.dbf  
+geo_export_699d5441-6a61-43a9-8ccb-abada8b78f27.prj  
+geo_export_699d5441-6a61-43a9-8ccb-abada8b78f27.shp  
 geo_export_699d5441-6a61-43a9-8ccb-abada8b78f27.shx
 
-_Shiny app style formatting, taken from https://github.com/rstudio/shiny-examples/blob/master/063-superzip-example/ui.R_
-
+_Shiny app style formatting, taken from https://github.com/rstudio/shiny-examples/blob/master/063-superzip-example/ui.R_  
 styles.css
