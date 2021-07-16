@@ -3,6 +3,9 @@
 In this project, Chicago Public Schools (high schools and elementary schools
 separately) are plotted using an R Shiny interface.
 
+The final report from this project can be accessed at https://www.accessliving.org/wp-content/uploads/2020/08/CPS-Accessibility_Students-with-Mobility-Disabilities-are-Not-Yet-Equal_Access-Living-1.pdf, and is uploaded at:
+- Accessibility in Chicago Public Schools: Students with Mobility Disabilities Are Not Yet Equal.pdf
+
 The final maps can be accessed at:
 - https://csheils9.shinyapps.io/HCA_CPS_High_Schools_Accessibility_Map/
 - https://csheils9.shinyapps.io/HCA_CPS_Elementary_Schools_Accessibility_Map/
